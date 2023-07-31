@@ -162,6 +162,7 @@ a.button:any-link, button {
   font-size: 14px;
   margin-bottom: -20px;
   background-color: #006975;
+  transition: .3s;
 }
 
 a.button:hover, a.button:focus, button:hover, button:focus  {
