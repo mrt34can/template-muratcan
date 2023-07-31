@@ -1,6 +1,6 @@
 /* header and nav layout */
 header .nav-wrapper {
-  background-color: var(--background-color);
+  background-color: #fdfffe;
   width: 100%;
   z-index: 2;
   position: fixed;
@@ -148,7 +148,7 @@ header .nav-brand {
 }
 
 header nav .nav-brand img {
-  width: 100px;
+  width: 155px;
   height: auto;
 }
 
