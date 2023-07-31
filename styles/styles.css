@@ -274,5 +274,6 @@ main .section {
   background-color: #fff;
 }
 .video-section{
-  background-color: #a6e262;
+  background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,0,0,1) 7%, rgba(166,226,98,1) 100%);
 }
