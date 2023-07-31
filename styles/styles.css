@@ -138,7 +138,7 @@ a:any-link {
 
 a:hover {
   text-decoration: underline;
-  color:#ffc313;
+  color: var(--link-hover-color);
 }
 
 /* buttons */
@@ -165,7 +165,7 @@ a.button:any-link, button {
 }
 
 a.button:hover, a.button:focus, button:hover, button:focus  {
-  background-color: var(--link-hover-color);
+  background-color:#eeb612;
   cursor: pointer;
 }
 
