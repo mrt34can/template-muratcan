@@ -116,7 +116,9 @@ code, pre, samp {
 code, samp {
   padding: .125em;
 }
-
+h2{
+  text-align: center;
+}
 pre {
   overflow: scroll;
 }
