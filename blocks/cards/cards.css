@@ -28,4 +28,6 @@
 .cards > ul > li img {
   width: 66%;
   object-fit: cover;
+  margin: auto;
+  padding: 1em;
 }
