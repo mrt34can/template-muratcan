@@ -13,3 +13,7 @@ footer .footer {
 footer .footer p {
   margin: 0;
 }
+.footer img{
+  width: 100%;
+  max-width: 50px;
+}
